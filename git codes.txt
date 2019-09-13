@@ -1,0 +1,2 @@
+git remote add origin https://github.com/bakanatsume/SampleProject-.git .. to add origin
+git push -u origin master --- to login to git id and push to the origin 
